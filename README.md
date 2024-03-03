@@ -42,7 +42,7 @@ I'm an software developer taking my journey one step at a time. All coding proje
 [![Cakewalk Wont Record Virtual Instruments?](https://ytcards.demolab.com/?id=cNEjbMigFt4&title=Cakewalk+Wont+Record+Virtual+Instruments?&lang=en&timestamp=1706101240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Cakewalk Wont Record Virtual Instruments?")](https://www.youtube.com/watch?v=cNEjbMigFt4)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/Mhooodie@?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/UCbuGIZ-AqNbYOoQi5IK9dsQ?sub_confirmation=1)
 
 #
 
